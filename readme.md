@@ -8,4 +8,4 @@ INSTRUCCIONES DE GIT
 
 *tercero ejecutar npm run start
 
-cuarto usar la aplicaciongit
+*cuarto usar la aplicaciongit
